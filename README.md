@@ -8,14 +8,14 @@ Installation for the package can be done via pip:
 
 ```bash
 $ python -m pip install newsapi-python
-
+```
 ## Usage
 
 After installation, import the client class into your project:
 
 ```bash
 import newsapi
-
+```
 ## API key
 
 Step 01: Visit www.newsapi.org.
