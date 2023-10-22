@@ -4,10 +4,11 @@ NewsWave is created based on streamlit and newsapi for personalized news updates
 
 ## Installation
 
-Installation for the package can be done via pip:
+Installation for the packages can be done via pip:
 
 ```bash
 $ python -m pip install newsapi-python
+$ pip install streamlit
 ```
 ## Usage
 
@@ -21,5 +22,13 @@ import newsapi
 * Step 01: Visit www.newsapi.org.
 * Step 02: Create an account.
 * Step 03: In the home page, click Get API key to get your own api key.
+
+## Streamlit app
+
+The final streamlit app can be executed using the following command:
+
+```bash
+streamlit run app.py
+```
 
 For detailed documentary visit www.newsapi.org or https://github.com/mattlisiv/newsapi-python.
