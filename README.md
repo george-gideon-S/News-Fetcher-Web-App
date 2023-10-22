@@ -18,8 +18,8 @@ import newsapi
 ```
 ## API key
 
-Step 01: Visit www.newsapi.org.
-Step 02: Create an account.
-Step 03: In the home page, click Get API key to get your own api key.
+* Step 01: Visit www.newsapi.org.
+* Step 02: Create an account.
+* Step 03: In the home page, click Get API key to get your own api key.
 
 For detailed documentary visit www.newsapi.org or https://github.com/mattlisiv/newsapi-python.
